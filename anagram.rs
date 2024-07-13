@@ -1,3 +1,7 @@
+/*
+https://contest.yandex.ru/contest/8458/problems/E/
+*/
+
 fn main() {
 
     let mut readed_string_1 = String::new();
